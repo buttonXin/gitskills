@@ -60,3 +60,8 @@ file---->>> app/src/main/java/com/demo/newweather/activity/TestActivity.java代�
     * git checkout master  切换到主master分支上
     * git merge  dev   表示将分支dev中add  commit 内容合并到master上！
     * git branch -d dev  表示安心的删除dev分支了
+---------------
+
+AS上的使用
+   > as上创建项目后可以直接使用VCS里的import into Version Code ，选择Share Project to GitHub 就直接在GitHub创建项目了
+   > 然后在选择Create Git Repository ，选择这个项目的根目录，进行创建，这样就将本地与GitHub进行关联了
